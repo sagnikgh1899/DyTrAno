@@ -5,7 +5,8 @@ from utils import data_utils, constants
 
 
 def bfs_based_clustering(parent_node, hash_map, dataset, list_of_parents_queue, labels, cluster_num,
-                         can_form_cluster, tree_structure, roots, store_radius_density, store_parents):
+                         can_form_cluster, tree_structure, roots, store_radius_density,
+                         store_parents):
     """
     BFS-based approach for clustering algorithm.
 

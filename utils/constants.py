@@ -1,3 +1,6 @@
+"""
+List of all the constants used throughout the program
+"""
 OUTLIER_DETECTION_ENABLED = False  # Outlier_Detection
 CLUSTERING_ENABLED = True  # Clustering
 NUMBER_OF_NEIGHBORS = 1  # This is K
